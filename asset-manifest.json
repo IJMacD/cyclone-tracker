@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cyclone-tracker/static/css/main.0ede9931.chunk.css",
+    "main.js": "/cyclone-tracker/static/js/main.26eb55b8.chunk.js",
+    "main.js.map": "/cyclone-tracker/static/js/main.26eb55b8.chunk.js.map",
+    "runtime~main.js": "/cyclone-tracker/static/js/runtime~main.7d3a595c.js",
+    "runtime~main.js.map": "/cyclone-tracker/static/js/runtime~main.7d3a595c.js.map",
+    "static/js/2.c8f95aad.chunk.js": "/cyclone-tracker/static/js/2.c8f95aad.chunk.js",
+    "static/js/2.c8f95aad.chunk.js.map": "/cyclone-tracker/static/js/2.c8f95aad.chunk.js.map",
+    "static/js/3.1293b57d.chunk.js": "/cyclone-tracker/static/js/3.1293b57d.chunk.js",
+    "static/js/3.1293b57d.chunk.js.map": "/cyclone-tracker/static/js/3.1293b57d.chunk.js.map",
+    "index.html": "/cyclone-tracker/index.html",
+    "precache-manifest.95bee332285f05aacc77326b437d99a2.js": "/cyclone-tracker/precache-manifest.95bee332285f05aacc77326b437d99a2.js",
+    "service-worker.js": "/cyclone-tracker/service-worker.js",
+    "static/css/main.0ede9931.chunk.css.map": "/cyclone-tracker/static/css/main.0ede9931.chunk.css.map"
+  }
+}
