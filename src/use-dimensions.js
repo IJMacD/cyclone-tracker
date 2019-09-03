@@ -48,7 +48,7 @@ function useDimensions() {
                 window.removeEventListener("resize", measure);
             };
         }
-    }, [ref.current]);
+    }, [ref]);
 
     return [ref, dimensions];
 }
