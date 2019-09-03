@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cyclone-tracker/precache-manifest.95bee332285f05aacc77326b437d99a2.js"
+  "/cyclone-tracker/precache-manifest.2b934513921ef9fc82824c4ff0e50b7e.js"
 );
 
 self.addEventListener('message', (event) => {
